@@ -4,6 +4,8 @@
     justify-content: center;
 }
 
+
+
 .footer {
    position: fixed;
    bottom: 0;
@@ -106,4 +108,16 @@
 }
 .light-mode .japanese-level{
    border-right: 1px solid #000;
+}
+#about{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    height: 500px;
+    border: solid;
+    border-radius: 5%;
+    padding: 20px;
+    font-size: 25px;
 }
